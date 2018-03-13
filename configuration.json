@@ -1,0 +1,19 @@
+{
+  "Battery":{
+    "CapacityCharList": ["\ue242", "\ue243", "\ue244", "\ue245", "\ue246", "\ue247", "\ue248", "\ue249", "\ue24a", "\ue24b"],
+    "ChargingChar": "\ue23a",
+    "FullChar": "\ue239",
+    "Interval": 10
+  },
+  "Audio":{
+    "VolumeMuteChar": "\ue202",
+    "VolumeZeroChar": "\ue204",
+    "VoluemeOnChar" : "\ue203",
+    "HeadphonesOnChar": "\ue04d",
+    "Interval": 2
+  },
+  "Date":{
+    "DateChar": "\ue1cd",
+    "Interval": 60
+  }
+}
